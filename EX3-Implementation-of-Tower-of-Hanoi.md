@@ -5,9 +5,13 @@ To write a C program to implement Tower of Hanoi
 
 ## Algorithm
 1.Start the program.
+
 2.Include the required libraries.
+
 3.Define a recursive function to handle the tower of hanoi problem.
+
 4.Call the defined function in the main function and print the moves.
+
 5.End the program.   
 
 ## Program:
