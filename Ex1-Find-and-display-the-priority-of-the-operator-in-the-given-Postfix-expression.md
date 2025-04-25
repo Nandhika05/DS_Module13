@@ -5,9 +5,13 @@ To write a C program to find and display the priority of the operator in the giv
 
 ## Algorithm
 1.Start the program.
+
 2.Include the required libraries
+
 3.Define a function to display the priority of the operator in a postfix expression.
+
 4.Use if-else statements to specify the priority and return it.
+
 5.End the program
 
 ## Program:
